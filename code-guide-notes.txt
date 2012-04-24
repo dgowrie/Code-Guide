@@ -1,0 +1,61 @@
+Coding Style Guide, Front-End Standards
+example: http://na.isobar.com/standards/
+example: https://wiki.mozilla.org/WebDev:FrontendCodeStandards
+
+Context and Inspiration: 
+
+
+
+UI Pattern Library / Repo / Framework
+What is it? 
+- Reusable design components, including markup and style and JS
+- In a centralized repo, that both designers and coders reference
+
+examples:
+http://pea.rs/
+http://twitter.github.com/bootstrap/
+http://patternprimer.adactio.com/
+
+Context and Inspiration: http://adactio.com/journal/5028/
+
+
+Browser Support 
+- graded support like Yahoo
+- A (90% functionality and design, variations) 
+- B (core functionality and content accessible, fallback HTML, design rendering issues allowed)
+- desktop and mobile
+
+
+Semantic
+- meaningful, rather than presentational
+
+Valid
+
+
+Seperation of Concerns
+- no inline CSS or JS
+
+
+Progressive Enhancement
+- 
+
+
+Naming Conventions
+- structure and function (less presentation) but not necessarily content-derived
+
+Architecture / Modules
+- abstracting reusable patterns
+- 
+
+Commenting
+
+
+Legibility / White-Space / Indentation
+
+
+CSS
+
+
+
+JS
+- don't pollute global namespace (use objects/closures)
