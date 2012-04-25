@@ -1,3 +1,41 @@
+focus on finding effective, pragmatic solutions to existing problems and not getting too hung up about deciding which is “the one true way”, since everything changes so fast.
+
+http://na.isobar.com/standards/
+- pretty, github forked
+
+
+https://wiki.mozilla.org/WebDev:FrontendCodeStandards#Code_Standards
+- browser support... see YUI guide
+
+
+http://24ways.org/2011/front-end-style-guides
+- more about design style guides, presentational not so much code
+
+
+http://coffeepowered.co.uk/2010/01/css-coding-standards/
+- css
+
+
+https://github.com/dgowrie/coding-standards-front-end
+- don't agree with all but another github forked
+
+
+http://nefariousdesigns.co.uk/on-coding-standards.html
+- how to devise a guide, with a team, and enforce (code review)
+- not just front-end, but covers general concerns (commenting, legibility, whitespace, tabbing)
+
+
+smacss
+http://smacss.com/
+
+front-end architecture
+http://nicolasgallagher.com/about-html-semantics-front-end-architecture/
+- css naming conventions...
+- abstracting reusable patterns
+- structure and function (less presentational) but not necessarily content-derived
+
+
+
 Coding Style Guide, Front-End Standards
 example: http://na.isobar.com/standards/
 example: https://wiki.mozilla.org/WebDev:FrontendCodeStandards
